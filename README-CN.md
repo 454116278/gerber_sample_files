@@ -1,26 +1,28 @@
 # Gerber Files Repository
 
-This is a GitHub project for sharing GERBER files. These GERBER files are provided for technical demonstration and educational purposes only and do not contain any customer proprietary information.
-All files are generic test files and do not involve any actual products or commercial designs. These files may only be used for research purposes and not for commercial use. Users assume all legal responsibility for any issues that may arise.
+这是一个用于共享GERBER文件的GitHub项目。这些GERBER文件仅为技术演示和教育目的而提供，不包含任何客户的专有信息。
+所有文件均为通用测试文件，不涉及任何实际产品或商业设计。这些文件仅可用于研究目的，不可用于商业用途。如出现法律问题，由使用者自行承担。
 
-## Documentation
+## 文档
 
-- **[中文文档](README.md)** (Chinese documentation)
-- **English documentation** (current file)
+- **中文文档** (当前文件)
+- **[English Documentation](README.md)** (英文文档)
 
-## File Description
 
-This repository contains 21 sets of GERBER files and their corresponding preview images.
 
-### File Structure
+## 文件说明
 
-- `files/` - Contains 21 ZIP-compressed GERBER files
-- `images/` - Contains 21 PNG format GERBER file preview images
+本仓库包含21组GERBER文件及其对应的预览图像。
 
-### File List
+### 文件结构
 
-| File No. | GERBER File (ZIP) | Preview Image (PNG) | File Size |
-|----------|-------------------|---------------------|-----------|
+- `files/` - 包含21个ZIP压缩的GERBER文件
+- `images/` - 包含21个PNG格式的GERBER文件预览图像
+
+### 文件列表
+
+| 文件编号 | GERBER文件 (ZIP) | 预览图像 (PNG) | 文件大小 |
+|----------|------------------|----------------|----------|
 | 001 | [paper_tests_001.zip](files/paper_tests_001.zip) | [paper_tests_001.gbr.png](images/paper_tests_001.gbr.png) | 1.33 MB |
 | 002 | [paper_tests_002.zip](files/paper_tests_002.zip) | [paper_tests_002.gbr.png](images/paper_tests_002.gbr.png) | 983.37 KB |
 | 003 | [paper_tests_003.zip](files/paper_tests_003.zip) | [paper_tests_003.gbr.png](images/paper_tests_003.gbr.png) | 1.55 MB |
@@ -44,35 +46,35 @@ This repository contains 21 sets of GERBER files and their corresponding preview
 | 021 | [paper_tests_021.zip](files/paper_tests_021.zip) | [paper_tests_021.gbr.png](images/paper_tests_021.gbr.png) | 19.11 MB |
 
 
-## Usage Restrictions
+## 使用限制
 
-1. **Research Use Only**: The GERBER files in this repository may only be used for personal learning, research, and educational purposes.
-2. **Commercial Use Prohibited**: These files may not be used for any commercial purposes, including but not limited to product development, production, sales, etc.
-3. **Illegal Use Prohibited**: These files may not be used for any illegal activities or actions that infringe upon the rights of others.
+1. **仅限研究用途**：本仓库中的GERBER文件仅供个人学习、研究和教育目的使用。
+2. **禁止商业用途**：不得将这些文件用于任何商业目的，包括但不限于产品开发、生产、销售等。
+3. **禁止非法用途**：不得将这些文件用于任何违法活动或侵犯他人权益的行为。
 
-## Disclaimer
+## 免责声明
 
-Users assume full responsibility for using the files in this repository. Authors and contributors are not liable for any direct, indirect, incidental, or consequential damages arising from the use of these files, including but not limited to data loss, profit loss, or business interruption.
+使用者应对使用本仓库中的文件承担全部责任。作者和贡献者不对因使用这些文件而产生的任何直接、间接、附带或后果性损害承担责任，包括但不限于数据损失、利润损失或业务中断。
 
-## License
+## 许可证
 
-This project is licensed under the [MIT License](LICENSE). Subject to the above usage restrictions, you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the files in this repository.
+本项目采用 [MIT 许可证](LICENSE)。在遵守上述使用限制的前提下，您可以自由使用、复制、修改、合并、出版、分发、再许可和/或销售本仓库中的文件。
 
-## How to Download
+## 如何下载
 
-You can download files in the following ways:
+您可以通过以下方式下载文件：
 
-1. **Download individual files**: Click the links in the table above to download specific files
-2. **Download the entire repository**: Use Git to clone this repository
+1. **下载单个文件**：点击上表中的链接下载特定文件
+2. **下载整个仓库**：使用Git克隆本仓库
    ```bash
    git clone https://github.com/454116278/gerber_sample_files.git
    ```
-3. **Download ZIP package**: Click the "Code" button on the GitHub page and select "Download ZIP"
+3. **下载ZIP包**：点击GitHub页面上的"Code"按钮，选择"Download ZIP"
 
-## Contribution
+## 贡献
 
-Issues and improvement suggestions are welcome. If you have new GERBER files to share, please submit a Pull Request.
+欢迎提交问题和改进建议。如果您有新的GERBER文件想要分享，请提交Pull Request。
 
-## Contact
+## 联系
 
-For questions, please contact us through GitHub Issues. This file is for learning purposes only and does not guarantee the correctness of the files.
+如有疑问，请通过GitHub Issues联系我们。本文件仅限于学习，不对文件的正确性负责。
