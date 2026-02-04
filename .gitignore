@@ -9,6 +9,7 @@
 /.trae
 /.opencode
 /.cludecode
+/.obsidian
 
 *.cpp
 *.h
@@ -20,4 +21,6 @@
 *.xlsx
 *.docx
 *.pptx
+
+*.dif
 
